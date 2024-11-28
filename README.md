@@ -2,6 +2,6 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-
+EDUCATION
 
 
