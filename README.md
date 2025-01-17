@@ -1,6 +1,6 @@
 <h1>Hi, Im Maurice! 
 
-<h2>👨‍💻Cybersecurity Projects</h2>
+<h2>👨‍💻Information Technology Projects</h2>
 
 
 
