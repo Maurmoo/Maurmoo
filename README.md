@@ -7,8 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Maurmoo/Post-install-config)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Maurmoo/Azure-Network-Protocols)
-  
-- <b>VPN Setup and Usage with ProtonVPN</b>
   - [VPN Setup and Usage with ProtonVPN](https://github.com/Maurmoo/VPN-Setup-and-Usage-Proton-VPN)
 
 
